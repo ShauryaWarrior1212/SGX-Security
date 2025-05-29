@@ -1,0 +1,12 @@
+# @format
+bot:
+  ID: '1373589843547783298'
+  TOKEN: ''
+  PREFIX: '&'
+  EMBED_COLOR: '#ff0000'
+  OWNERS: ['1062033825024196618']
+  MONGO: ''
+links:
+  INVITE: ''
+  SUPPORT: 'https://dsc.gg/sgxhost'
+  VOTE: 'https://top.gg/bot/1373589843547783298/vote'
