@@ -5,6 +5,9 @@
   "main": "sharder.js",
   "author": "Ray </>",
   "license": "MIT",
+  "engines": {
+  "node": "18.x"
+},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npm i && node sharder.js"
